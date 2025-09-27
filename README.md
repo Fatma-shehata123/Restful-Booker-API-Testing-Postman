@@ -37,7 +37,7 @@ The collection includes both **positive** and **negative** test cases to validat
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/restful-booker-api-testing.git
+   git clone https://github.com/Fatma-shehata123/restful-booker-api-testing.git
    cd restful-booker-api-testing
    ```
 2. Import:
